@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "about": "Sobre Mim",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Desenvolvedor full-stack com experiência em tecnologias web modernas. Apaixonado por criar aplicações eficientes, escaláveis e amigáveis. Experiente em desenvolvimento frontend e backend, com foco em React e Node.js.",
+    "skills": "Habilidades Técnicas"
+  },
+  "projects": {
+    "title": "Projetos",
+    "viewGithub": "Ver no GitHub",
+    "viewLive": "Demo ao Vivo",
+    "items": {
+      "ecommerce": {
+        "title": "Plataforma E-commerce",
+        "description": "Uma plataforma de e-commerce completa construída com React e Node.js. Inclui gerenciamento de produtos, carrinho de compras e processamento seguro de pagamentos."
+      },
+      "taskManager": {
+        "title": "App de Gerenciamento de Tarefas",
+        "description": "Uma aplicação colaborativa de gerenciamento de tarefas com atualizações em tempo real. Ajuda equipes a organizar e acompanhar seus projetos de forma eficiente."
+      },
+      "weather": {
+        "title": "Painel do Clima",
+        "description": "Painel de monitoramento do clima em tempo real com previsões detalhadas. Fornece dados meteorológicos precisos e visualizações bonitas."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem",
+    "sending": "Enviando...",
+    "success": "Mensagem enviada com sucesso!",
+    "error": "Erro ao enviar mensagem. Tente novamente.",
+    "validation": {
+      "nameRequired": "Nome é obrigatório",
+      "emailRequired": "Email é obrigatório",
+      "emailInvalid": "Formato de email inválido",
+      "messageRequired": "Mensagem é obrigatória"
+    }
+  }
+}

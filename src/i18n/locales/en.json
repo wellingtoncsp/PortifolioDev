@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "about": "About Me",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Full-stack developer with expertise in modern web technologies. Passionate about creating efficient, scalable, and user-friendly applications. Experienced in both frontend and backend development, with a strong focus on React and Node.js ecosystems.",
+    "skills": "Technical Skills"
+  },
+  "projects": {
+    "title": "Projects",
+    "viewGithub": "View on GitHub",
+    "viewLive": "Live Demo",
+    "items": {
+      "ecommerce": {
+        "title": "E-commerce Platform",
+        "description": "A full-featured e-commerce platform built with React and Node.js. Features include product management, shopping cart, and secure payment processing."
+      },
+      "taskManager": {
+        "title": "Task Management App",
+        "description": "A collaborative task management application with real-time updates. Helps teams organize and track their projects efficiently."
+      },
+      "weather": {
+        "title": "Weather Dashboard",
+        "description": "Real-time weather monitoring dashboard with detailed forecasts. Provides accurate weather data and beautiful visualizations."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Error sending message. Please try again.",
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email format",
+      "messageRequired": "Message is required"
+    }
+  }
+}
