@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { Github, Linkedin, Mail } from 'lucide-react';
 import SkillsList from './skills/SkillsList';
-
+import fotoPerfil from '../img/perfil2.png';
 const About: React.FC = () => {
   const { t } = useTranslation();
 
@@ -32,7 +32,7 @@ const About: React.FC = () => {
             <div className="relative group">
               <img
                 //src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80"
-                src="/src/img/perfil2.png"
+                src={fotoPerfil}
                 alt="Profile"
                 className="rounded-full w-48 h-48 mx-auto object-cover shadow-lg transition-transform duration-300 group-hover:scale-105"
               />
