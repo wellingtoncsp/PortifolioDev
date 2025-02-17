@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "about": "Sobre Mim",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Desenvolvedor Full-Stack | Especialista em React, Node.js Java e C#\n\n\nSou um desenvolvedor full-stack apaixonado por transformar ideias em soluções digitais eficientes e escaláveis. Com ampla experiência em tecnologias web modernas, atuo tanto no frontend quanto no backend, criando aplicações ágeis, seguras e intuitivas. Minha expertise em desenvolvimento de software me permite construir sistemas robustos, com foco na performance e na melhor experiência do usuário.\n\n\nBusco constantemente aprimorar minhas habilidades e explorar novas tecnologias para entregar soluções que realmente fazem a diferença. Vamos construir algo incrível juntos? 🚀",
+    "skills": "Principais Habilidades Técnicas"
+  },
+  "projects": {
+    "title": "Projetos",
+    "viewGithub": "Ver no GitHub",
+    "viewLive": "Demo ao Vivo",
+    "items": {
+      "ecommerce": {
+        "title": "Plataforma E-commerce",
+        "description": "Uma plataforma de e-commerce completa construída com React e Node.js. Inclui gerenciamento de produtos, carrinho de compras e processamento seguro de pagamentos."
+      },
+      "taskManager": {
+        "title": "App de Gerenciamento de Tarefas",
+        "description": "Uma aplicação colaborativa de gerenciamento de tarefas com atualizações em tempo real. Ajuda equipes a organizar e acompanhar seus projetos de forma eficiente."
+      },
+      "weather": {
+        "title": "Painel do Clima",
+        "description": "Painel de monitoramento do clima em tempo real com previsões detalhadas. Fornece dados meteorológicos precisos e visualizações bonitas."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem",
+    "sending": "Enviando...",
+    "success": "Mensagem enviada com sucesso!",
+    "error": "Erro ao enviar mensagem. Tente novamente.",
+    "validation": {
+      "nameRequired": "Nome é obrigatório",
+      "emailRequired": "Email é obrigatório",
+      "emailInvalid": "Formato de email inválido",
+      "messageRequired": "Mensagem é obrigatória"
+    }
+  }
+}
