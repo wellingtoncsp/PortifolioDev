@@ -14,6 +14,7 @@ i18n
       'pt-BR': { translation: ptBR },
       es: { translation: es },
     },
+<<<<<<< HEAD
     lng: 'pt-BR',
     fallbackLng: 'pt-BR',
     interpolation: {
@@ -23,6 +24,12 @@ i18n
       order: ['localStorage', 'navigator'],
       caches: ['localStorage'],
     },
+=======
+    fallbackLng: 'en',
+    interpolation: {
+      escapeValue: false,
+    },
+>>>>>>> 2b524c9947ad5c1d411bbac59927419c0cd4d165
   });
 
 export default i18n;

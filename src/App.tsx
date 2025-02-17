@@ -4,7 +4,10 @@ import Header from './components/Header';
 import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+<<<<<<< HEAD
 import Footer from './components/Footer';
+=======
+>>>>>>> 2b524c9947ad5c1d411bbac59927419c0cd4d165
 import { Theme } from './types';
 import './i18n';
 
@@ -25,7 +28,10 @@ function App() {
           <Projects />
           <Contact />
         </main>
+<<<<<<< HEAD
         <Footer />
+=======
+>>>>>>> 2b524c9947ad5c1d411bbac59927419c0cd4d165
       </div>
     </div>
   );
