@@ -1,7 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-<<<<<<< HEAD
 
 @keyframes fade-in {
   from {
@@ -44,5 +43,3 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   @apply bg-gray-500 dark:bg-gray-500;
 }
-=======
->>>>>>> 2b524c9947ad5c1d411bbac59927419c0cd4d165

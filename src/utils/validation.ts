@@ -13,7 +13,6 @@ export const validateContactForm = (
 ): { isValid: boolean; errors: string[] } => {
   const errors: string[] = [];
 
-<<<<<<< HEAD
   if (!name.trim()) {
     errors.push(t('contact.validation.nameRequired'));
   }
@@ -25,12 +24,6 @@ export const validateContactForm = (
   if (!message.trim()) {
     errors.push(t('contact.validation.messageRequired'));
   }
-=======
-  if (!name.trim()) errors.push(t('contact.validation.nameRequired'));
-  if (!email.trim()) errors.push(t('contact.validation.emailRequired'));
-  else if (!validateEmail(email)) errors.push(t('contact.validation.emailInvalid'));
-  if (!message.trim()) errors.push(t('contact.validation.messageRequired'));
->>>>>>> 2b524c9947ad5c1d411bbac59927419c0cd4d165
 
   return {
     isValid: errors.length === 0,

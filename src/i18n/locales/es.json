@@ -6,13 +6,8 @@
   },
   "about": {
     "title": "Sobre Mí",
-<<<<<<< HEAD
     "description": "Desarrollador Full-Stack | Experto en React, Node.js, Java y C#\n\n\nSoy un desarrollador full-stack apasionado por transformar ideas en soluciones digitales eficientes y escalables. Con amplia experiencia en tecnologías web modernas, trabajo tanto en frontend como en backend, creando aplicaciones ágiles, seguras e intuitivas. Mi experiencia en desarrollo de software me permite construir sistemas robustos, enfocándome en el rendimiento y la mejor experiencia del usuario.\n\n\nBusco constantemente mejorar mis habilidades y explorar nuevas tecnologías para entregar soluciones que realmente marquen la diferencia. ¿Construimos algo increíble juntos? 🚀",
     "skills": "Principales Habilidades Técnicas"
-=======
-    "description": "Desarrollador full-stack con experiencia en tecnologías web modernas. Apasionado por crear aplicaciones eficientes, escalables y amigables. Experimentado en desarrollo frontend y backend, con enfoque en React y Node.js.",
-    "skills": "Habilidades Técnicas"
->>>>>>> 2b524c9947ad5c1d411bbac59927419c0cd4d165
   },
   "projects": {
     "title": "Proyectos",
