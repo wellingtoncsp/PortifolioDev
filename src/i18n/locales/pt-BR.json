@@ -14,18 +14,20 @@
     "viewGithub": "Ver no GitHub",
     "viewLive": "Demo ao Vivo",
     "items": {
-      "ecommerce": {
-        "title": "Plataforma E-commerce",
-        "description": "Uma plataforma de e-commerce completa construída com React e Node.js. Inclui gerenciamento de produtos, carrinho de compras e processamento seguro de pagamentos."
+      "wisewallet": {
+        "title": "WiseWallet",
+        "description": "Sistema de gestão financeira pessoal e familiar com controle de receitas, despesas e investimentos. Oferece categorização inteligente, relatórios, metas e orçamentos, ajudando os usuários a tomarem decisões mais conscientes e eficazes sobre seu dinheiro. Também permite gestão colaborativa."
       },
-      "taskManager": {
-        "title": "App de Gerenciamento de Tarefas",
-        "description": "Uma aplicação colaborativa de gerenciamento de tarefas com atualizações em tempo real. Ajuda equipes a organizar e acompanhar seus projetos de forma eficiente."
+      "wisepark": {
+        "title": "WisePark",
+        "description": "Sistema de gerenciamento de estacionamento para controle de entrada e saída de veículos. Inclui recursos como registro de veiculos, relatórios, graficos, compartilhamento definanceiros e monitoramento em tempo real da ocupação."
       },
-      "weather": {
-        "title": "Painel do Clima",
-        "description": "Painel de monitoramento do clima em tempo real com previsões detalhadas. Fornece dados meteorológicos precisos e visualizações bonitas."
+      "advogada": {
+        "title": "Página Profissional da Advogada",
+        "description": "Landing page desenvolvida para apresentar uma advogada, destacando suas áreas de atuação, experiência e credibilidade. Conta com um design moderno e responsivo, além de um formulário de contato direto por e-mail, facilitando a comunicação com clientes potenciais."
       }
+
+
     }
   },
   "contact": {

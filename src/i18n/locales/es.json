@@ -14,18 +14,18 @@
     "viewGithub": "Ver en GitHub",
     "viewLive": "Demo en Vivo",
     "items": {
-      "ecommerce": {
-        "title": "Plataforma de Comercio Electrónico",
-        "description": "Una plataforma de comercio electrónico completa construida con React y Node.js. Incluye gestión de productos, carrito de compras y procesamiento seguro de pagos."
+      "wisewallet": {
+        "title": "WiseWallet",
+        "description": "Sistema de gestión financiera personal y familiar con control de ingresos, gastos e inversiones. Ofrece categorización inteligente, informes, metas y presupuestos, ayudando a los usuarios a tomar decisiones más conscientes y eficaces sobre su dinero. También permite gestión colaborativa."
       },
-      "taskManager": {
-        "title": "App de Gestión de Tareas",
-        "description": "Una aplicación colaborativa de gestión de tareas con actualizaciones en tiempo real. Ayuda a los equipos a organizar y seguir sus proyectos de manera eficiente."
+      "wisepark": {
+        "title": "WisePark",
+        "description": "Sistema de gestión de estacionamientos que permite un control eficiente de la entrada y salida de vehículos. Ofrece funciones como registro detallado de vehículos, generación de informes y gráficos, acceso compartido para gestión colaborativa y monitoreo en tiempo real de la ocupación, garantizando mayor organización y seguridad."
       },
-      "weather": {
-        "title": "Panel del Clima",
-        "description": "Panel de monitoreo del clima en tiempo real con pronósticos detallados. Proporciona datos meteorológicos precisos y hermosas visualizaciones."
-      }
+      "advogada": {
+        "title": "Página Profesional de la Abogada",
+        "description": "Landing page diseñada para presentar a una abogada, destacando sus áreas de práctica, experiencia y credibilidad. Cuenta con un diseño moderno y responsivo, además de un formulario de contacto directo por correo electrónico, facilitando la comunicación con clientes potenciales."
+        }
     }
   },
   "contact": {

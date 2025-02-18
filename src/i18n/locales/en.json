@@ -14,18 +14,18 @@
     "viewGithub": "View on GitHub",
     "viewLive": "Live Demo",
     "items": {
-      "ecommerce": {
-        "title": "E-commerce Platform",
-        "description": "A full-featured e-commerce platform built with React and Node.js. Features include product management, shopping cart, and secure payment processing."
+      "wisewallet": {
+        "title": "WiseWallet",
+        "description": "Personal and family finance management system with income, expense, and investment tracking. Features smart categorization, reports, goals, and budgets, helping users make more conscious and effective financial decisions. Also enables collaborative management."
       },
-      "taskManager": {
-        "title": "Task Management App",
-        "description": "A collaborative task management application with real-time updates. Helps teams organize and track their projects efficiently."
+      "wisepark": {
+        "title": "WisePark",
+        "description": "An advanced parking management system that enables efficient control of vehicle entry and exit. It includes features such as detailed vehicle registration, report and chart generation, shared access for collaborative management, and real-time occupancy monitoring, ensuring better organization and security."
       },
-      "weather": {
-        "title": "Weather Dashboard",
-        "description": "Real-time weather monitoring dashboard with detailed forecasts. Provides accurate weather data and beautiful visualizations."
-      }
+      "advogada": {
+        "title": "Lawyer's Professional Page",
+        "description": "Landing page designed to showcase a lawyer, highlighting her practice areas, experience, and credibility. It features a modern and responsive design, along with a direct email contact form, making it easy for potential clients to get in touch."
+            }
     }
   },
   "contact": {

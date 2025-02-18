@@ -2,6 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { ExternalLink, Github } from 'lucide-react';
 import { Project } from '../types';
+import imgAdv from '../img/adv.jpg'
 
 const Projects: React.FC = () => {
   const { t } = useTranslation();
@@ -9,29 +10,30 @@ const Projects: React.FC = () => {
   const projects: Project[] = [
     {
       id: 1,
-      titleKey: 'projects.items.ecommerce.title',
-      descriptionKey: 'projects.items.ecommerce.description',
-      image: 'https://images.unsplash.com/photo-1557821552-17105176677c?fit=crop&w=800&q=80',
-      github: 'https://github.com',
-      live: 'https://example.com',
-      technologies: ['React', 'Node.js', 'MongoDB']
+      titleKey: 'projects.items.wisewallet.title',
+      descriptionKey: 'projects.items.wisewallet.description',
+      image: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?q=80&w=1000',
+      github: 'https://github.com/wellingtoncsp/wisewallet',
+      live: 'https://wisewallet.netlify.app/',
+      technologies: ['React', 'TypeScript', 'Firebase', 'TailwindCSS', 'ReCharts']
     },
     {
       id: 2,
-      titleKey: 'projects.items.taskManager.title',
-      descriptionKey: 'projects.items.taskManager.description',
-      image: 'https://images.unsplash.com/photo-1557804506-669a67965ba0?fit=crop&w=800&q=80',
-      github: 'https://github.com',
-      technologies: ['React', 'Firebase', 'TypeScript']
+      titleKey: 'projects.items.wisepark.title',
+      descriptionKey: 'projects.items.wisepark.description',
+      image: 'https://images.unsplash.com/photo-1506521781263-d8422e82f27a?q=80&w=1000',
+      github: 'https://github.com/wellingtoncsp/WisePark',
+      live: 'https://wisepark.netlify.app/',
+      technologies: ['React', 'TypeScript', 'Firebase' ,'React Router','Tailwind CSS']
     },
     {
       id: 3,
-      titleKey: 'projects.items.weather.title',
-      descriptionKey: 'projects.items.weather.description',
-      image: 'https://images.unsplash.com/photo-1592210454359-9043f067919b?fit=crop&w=800&q=80',
-      github: 'https://github.com',
-      live: 'https://example.com',
-      technologies: ['React', 'TypeScript', 'OpenWeather API']
+      titleKey: 'projects.items.advogada.title',
+      descriptionKey: 'projects.items.advogada.description',
+      image: imgAdv,
+      github: 'https://github.com/wellingtoncsp/flaviarabeloadv',
+      live: 'https://flaviarabelo.netlify.app/',
+      technologies: ['Next.js', 'TypeScript', 'Tailwind CSS']
     }
   ];
 
